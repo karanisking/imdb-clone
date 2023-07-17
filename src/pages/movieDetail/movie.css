@@ -120,21 +120,21 @@
 }
 
 .newTab {
-    margin-left: 1.4rem;
+    margin-left: 1.2rem;
 }
 
 .movie__production {
-    width: 85%;
+    width: 80%;
     display: flex;
     justify-content: center;
     align-items: flex-end;
-    margin-bottom: 4rem;
+    margin-bottom: 3.8rem;
 }
 
 
 .movie__productionComapany {
     width: 200px;
-    margin: 2rem;
+    margin: 2.2rem;
 }
 
 .productionCompanyImage {
