@@ -1,5 +1,5 @@
 .posterImage{
-    height: 600px;
+    height: 580px;
 }
 
 .posterImage > img {
@@ -12,15 +12,15 @@
     position: absolute;
     padding: 5rem;
     bottom: 0px;
-    height: 70%;
+    height: 75%;
     display: flex;
     flex-direction: column;
     width: 100%;
     justify-content: flex-end;
     align-items: flex-start;
-    background-image: linear-gradient(rgb(0,0,0,0), rgb(0,0,0,1));
+    background-image: linear-gradient(rgb(0,0,0,0), rgb(20, 19, 19));
     opacity: 1;
-    transition: opacity .3s;
+    transition: opacity .4s;
 }   
 
 .posterImage__overlay:hover {
@@ -28,7 +28,7 @@
 }
 
 .posterImage__title {
-    font-weight: 900;
+    font-weight: 890;
     font-size: 4rem;
     margin-bottom: 0.4rem;
     text-align: left;

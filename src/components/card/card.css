@@ -1,15 +1,15 @@
 .cards {
     display: inline-block;
-    transition: transform .2s;
+    transition: transform .3s;
     position: relative;
     border-radius: 10px;
     overflow: hidden;
-    margin: 0.19rem;
+    margin: 0.2rem;
     cursor:pointer;
     min-width:200px;
     height:300px;
     z-index:0;
-    border: 1px solid rgb(99, 99, 99);
+    border: 1px solid rgb(87, 83, 83);
 }
 
 .cards:hover {

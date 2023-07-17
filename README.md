@@ -1,2 +1,0 @@
-# imdb-clone
-# imdb-clone
